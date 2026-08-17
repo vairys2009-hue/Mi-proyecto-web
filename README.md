@@ -19,7 +19,8 @@ Este es el comienzo de un proyecto de Full Stack Development.
 ### Who do I talk to? ###
 
 * Profesores de mi bachillerato o del mismo Coursera.
-**## Vista previa de la aplicación
+
+## Vista previa de la aplicación
 ![Aplicación Angular funcionando](captura.png)
 
 ## Ejecución del proyecto
@@ -27,4 +28,3 @@ Este es el comienzo de un proyecto de Full Stack Development.
 2. Ejecutar `npm install` para instalar dependencias.
 3. Ejecutar `ng serve` para iniciar el servidor local.
 4. Abrir el navegador en `http://localhost:52085/`.
-**
