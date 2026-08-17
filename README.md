@@ -1,0 +1,21 @@
+# Proyecto Full Stack Development de Coursera #
+
+Este es el comienzo de un proyecto de Full Stack Development.
+
+### What is this repository for? ###
+
+* Para apuntar cada paso del proyecto empezado.
+
+### How do I get set up? ###
+
+* Ver vídeos que están en la página de Coursera.
+* Tomar apuntes de las indicaciones.
+* Registrar cada paso que dan.
+
+### Contribution guidelines ###
+
+* Examenes para evaluar lo aprendido.
+
+### Who do I talk to? ###
+
+* Profesores de mi bachillerato o del mismo Coursera.
