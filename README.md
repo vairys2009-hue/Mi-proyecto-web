@@ -21,7 +21,7 @@ Este es el comienzo de un proyecto de Full Stack Development.
 * Profesores de mi bachillerato o del mismo Coursera.
 
 ## Vista previa de la aplicación
-![Aplicación Angular funcionando](miproyecto/captura.png)
+![Aplicación Angular funcionando](Miproyecto/captura.png)
 
 ## Ejecución del proyecto
 1. Clonar el repositorio.
